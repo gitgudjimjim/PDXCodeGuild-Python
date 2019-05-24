@@ -1,0 +1,3 @@
+# strings_practice_1
+user_string = input("give me a string")
+user_string = input()
